@@ -1,0 +1,19 @@
+{
+    "name": "appsdept/laravel-directpay-ipg",
+    "description": "A simple way to connect directpay with laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Appsdept\\LaravelDirectpayIpg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LasanthaSudeera",
+            "email": "lasan.sudeera@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
