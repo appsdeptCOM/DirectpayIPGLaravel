@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "AppsDept\\LaravelDirectpayIpg\\": "src/"
-        }
+        },
+        "files": [
+            "Helpers/helpers.php"
+        ]
     },
     "authors": [
         {

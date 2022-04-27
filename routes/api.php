@@ -3,6 +3,6 @@
 use Illuminate\Support\Facades\Route;
 
 
-Route::get('appsdept', function () {
+Route::get('/payment-verification', function () {
     return "Hello from appsdept";
 });
