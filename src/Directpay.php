@@ -2,7 +2,6 @@
 
 namespace AppsDept\LaravelDirectpayIpg;
 
-
 class DirectPay {
 
 }
