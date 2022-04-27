@@ -25,7 +25,7 @@
                  "AppsDept\\LaravelDirectpayIpg\\DirectpayServiceProvider"
             ],
             "aliases": {
-
+                "Directpay": "AppsDept\\LaravelDirectpayIpg\\Facades\\DirectPayFacade"
             }
         }
     }
