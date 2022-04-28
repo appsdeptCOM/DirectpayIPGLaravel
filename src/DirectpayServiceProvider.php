@@ -21,5 +21,6 @@ class DirectpayServiceProvider extends ServiceProvider
 
     public function register()
     {
+
     }
 }
